@@ -38,3 +38,6 @@ food = "Veggie Delight Caterers" if favorite_food_type == "vegetarian" else "Gou
 print("Venue is {}".format(venue))
 print("Additional facilities: {}".format(facilities))
 print("Recommended food is {}".format(food))
+
+
+
